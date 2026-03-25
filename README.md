@@ -1,5 +1,8 @@
 # Gemini-AI-PPT-Generator
 
+<img width="500" height="300" alt="ppt" src="https://github.com/user-attachments/assets/398a10ac-7cf5-4f6f-8fb5-75906ceca413" />
+
+
 Instructions for Testing the PowerPoint Generator App
 
 Step 1: Set Up the Environment
